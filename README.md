@@ -1,2 +1,3 @@
-# demo
-Demo for demo
+# Demo repository
+
+Hello world!
